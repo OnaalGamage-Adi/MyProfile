@@ -2,3 +2,4 @@ Name: Onaal
 Course: DVCS 101
 Hobbies: Programming
 Status: Studying
+Fav. Color : Red, Green.
